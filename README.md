@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Vinellon
-BerryBush Administrator 
-(Бездарный) Minecraft Plugin Developer 
-I know it on: Python - 30 %, Java - 2 %, Pascal - 60 %, Algorithmic language - 101%
+- BerryBush Administrator 
+- (Бездарный) Minecraft Plugin Developer 
+- I know it on: Python - 30 %, Java - 2 %, Pascal - 60 %, Algorithmic language - 101%
 
 
 <!---
