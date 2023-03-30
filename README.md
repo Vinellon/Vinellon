@@ -1,7 +1,7 @@
-<img src="Vinellon/Vinellon/header.png">
-- BerryBush Administrator 
-- (Бездарный) Minecraft Plugin Developer 
-- I know it on: Python - 30 %, Java - 2 %, Pascal - 60 %, Algorithmic language - 101%
+<h1 align="center">Hi there, I'm <a href="https://boosty.to/vinely" target="_blank">Vinely (Vinellon)</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">VParadise Administrator and Talentless Minecraft Plugin Developer from Russia 🇷🇺</h3>
+
 
 
 <!---
